@@ -21,7 +21,7 @@ list = [
   {"latitude":35.05, "longitude":135.76},
   {"latitude":35.04, "longitude":135.75},
 ]
-at.map(list)
+st.map(list)
   
 
 
